@@ -12,4 +12,4 @@ elif mois == 6 or mois == 7 or mois == 8:
 elif mois == 9 or mois == 10 or mois == 11:
     print("Saison : AUTOMNE")
 else:
-    print("CE MOIS N'EXISTE PAS VEILLEZ SAISIR DE 1 à 12")
+    print("CE MOIS N'EXISTE PAS VEILLER SAISIR UN NOMBRE COMPRIS ENTRE 1 à 12")
