@@ -1,6 +1,6 @@
-#TAF 2 
+#TAF 2 Détermine la saison correspondant à un mois donné (saisie d'un numéro de mois, affichage de la saison).
 
-print ("ce programme permet de determiner la saison correspondant a partir du mois donné")
+print ("Détermine la saison correspondant à un mois donné (saisie d'un numéro de mois, affichage de la saison).")
 mois = int(input("Entrez le numero du mois à verifier (Ex: 1=Janvier, 2=fevrier...) :"))
 
 if mois == 12 or mois == 1 or mois == 2:

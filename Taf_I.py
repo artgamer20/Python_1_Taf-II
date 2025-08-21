@@ -1,5 +1,7 @@
-#equation du second degré
-print("ce programme resout une equation dans R ")
+# Résout une équation du second degré dans ℝ. L'utilisateur saisit les coefficients `a`, `b`, et `c`, 
+# puis le programme affiche les solutions selon le discriminant.
+
+print("ce programme Résout une équation du second degré dans ℝ ")
 a = int(input("entrez la valeur de a :")) 
 b = int(input("entrez la valeur de b :")) 
 c = int(input("entrez la valeur de c :")) 
