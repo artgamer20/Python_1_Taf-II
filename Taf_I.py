@@ -11,7 +11,7 @@ if a == 0 :
     print("impossible")
 else: 
     # delta = b2 - 4ac
-    delta = b*b - 4*a*c
+    delta = (b*b) - (4*a*c)
     print("delta = ",delta)
 
     # verification avec delta et cas de figure 
